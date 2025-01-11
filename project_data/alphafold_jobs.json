@@ -1,0 +1,614 @@
+[
+    {
+        "name": "1GUD_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MNKYLKYFSGTLVGLMLSTSAFAAAEYAVVLKTLSNPFWVDMKKGIEDEAKTLGVSVDIFASPSEGDFQSQLQLFEDLSNKNYKGIAFAPLSSVNLVMPVARAWKKGIYLVNLDEKIDMDNLKKAGGNVEAFVTTDNVAVGAKGASFIIDKLGAEGGEVAIIEGKAGNASGEARRNGATEAFKKASQIKLVASQPADWDRIKALDVATNVLQRNPNIKAIYCANDTMAMGVAQAVANAGKTGKVLVVGTDGIPEARKMVEAGQMTATVAQNPADIGATGLKLMVDAEKSGKVIPLDKAPEFKLVDSILVTQ",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1RPJ_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MNKYLKYFSGTLVGLMLSTSAFAAAEYAVVLKTLSNPFWVDMKKGIEDEAKTLGVSVDIFASPSEGDFQSQLQLFEDLSNKNYKGIAFAPLSSVNLVMPVARAWKKGIYLVNLDEKIDMDNLKKAGGNVEAFVTTDNVAVGAKGASFIIDKLGAEGGEVAIIEGKAGNASGEARRNGATEAFKKASQIKLVASQPADWDRIKALDVATNVLQRNPNIKAIYCANDTMAMGVAQAVANAGKTGKVLVVGTDGIPEARKMVEAGQMTATVAQNPADIGATGLKLMVDAEKSGKVIPLDKAPEFKLVDSILVTQ",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "ZN",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1I56_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "KIFSKCELARKLKSMGMDGFHGYSLANWVCMAEYESNFNTQAFNGRNSNGSSDYGIFQLNSKWWCKSNSHSSANACNIMCSKFLDDNIDDDIACAKRVVKDPNGMSAWVAWVKHCKGKDLSKYLASCNL",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1EL1_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "KIFSKCELARKLKSMGMDGFHGYSLANWVCMAEYESNFNTQAFNGRNSNGSSDYGIFQLNSKWWCKSNSHSSANACNIMCSKFLDDNIDDDIACAKRVVKDPNGMSAWVAWVKHCKGKDLSKYLASCNL",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 2
+                }
+            }
+        ]
+    },
+    {
+        "name": "1IJA-15_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MKKWTNRLMTIAGVVLILVAAYLFAKPHIDNYLHDKDKDEKIEQYDKNVKEQASKDKKQQAKPQIPKDKSKVAGYIEIPDADIKEPVYPGPATPEQLNRGVSFAEENESLDDQNISIAGHTFIDRPNYQFTNLKAAKKGSMVYFKVGNETRKYKMTSIRDVKPTDVGVLDEQKGKDKQLTLITCDDYNEKTGVWEKRKIFVATEVK",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "2KID-4_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MKKWTNRLMTIAGVVLILVAAYLFAKPHIDNYLHDKDKDEKIEQYDKNVKEQASKDKKQQAKPQIPKDKSKVAGYIEIPDADIKEPVYPGPATPEQLNRGVSFAEENESLDDQNISIAGHTFIDRPNYQFTNLKAAKKGSMVYFKVGNETRKYKMTSIRDVKPTDVGVLDEQKGKDKQLTLITCDDYNEKTGVWEKRKIFVATEVK",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1JFJ-3_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MAEALFKEIDVNGDGAVSYEEVKAFVSKKRAIKNEQLLQLIFKSIDADGNGEIDQNEFAKFYGSIQGQDLSDDKIGLKVLYKLMDVDGDGKLTKEEVTSFFKKHGIEKVAEQVMKADANGDGYITLEEFLEFSL",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1JFK_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MAEALFKEIDVNGDGAVSYEEVKAFVSKKRAIKNEQLLQLIFKSIDADGNGEIDQNEFAKFYGSIQGQDLSDDKIGLKVLYKLMDVDGDGKLTKEEVTSFFKKHGIEKVAEQVMKADANGDGYITLEEFLEFSL",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 4
+                }
+            }
+        ]
+    },
+    {
+        "name": "1K2H-4_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MGSELETAMETLINVFHAHSGKEGDKYKLSKKELKDLLQTELSSFLDVQKDADAVDKIMKELDENGDGEVDFQEFVVLVAALTVACNNFFWENS",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1ZFS-13_B",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MGSELETAMETLINVFHAHSGKEGDKYKLSKKELKDLLQTELSSFLDVQKDADAVDKIMKELDENGDGEVDFQEFVVLVAALTVACNNFFWENS",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 4
+                }
+            }
+        ]
+    },
+    {
+        "name": "1LMZ-9_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MERCGWVSQDPLYIAYHDNEWGVPETDSKKLFEMICLEGQQAGLSWITVLKKRENYRACFHQFDPVKVAAMQEEDVERLVQDAGIIRHRGKIQAIIGNARAYLQMEQNGEPFVDFVWSFVNHQPQVTQATTLSEIPTSTSASDALSKALKKRGFKFVGTTICYSFMQACGLVNDHVVGCCCYPGNKP",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1P7M-18_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MERCGWVSQDPLYIAYHDNEWGVPETDSKKLFEMICLEGQQAGLSWITVLKKRENYRACFHQFDPVKVAAMQEEDVERLVQDAGIIRHRGKIQAIIGNARAYLQMEQNGEPFVDFVWSFVNHQPQVTQATTLSEIPTSTSASDALSKALKKRGFKFVGTTICYSFMQACGLVNDHVVGCCCYPGNKP",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "ZN",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1MUT-11_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MKKLQIAVGIIRNENNEIFITRRAADAHMANKLEFPGGKIEMGETPEQAVVRELQEEVGITPQHFSLFEKLEYEFPDRHITLWFWLVERWEGEPWGKEGQPGEWMSLVGLNADDFPPANEPVIAKLKRL",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1PUN-7_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MKKLQIAVGIIRNENNEIFITRRAADAHMANKLEFPGGKIEMGETPEQAVVRELQEEVGITPQHFSLFEKLEYEFPDRHITLWFWLVERWEGEPWGKEGQPGEWMSLVGLNADDFPPANEPVIAKLKRL",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "MG",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1NJG_B",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MSYQVLARKWRPQTFADVVGQEHVLTALANGLSLGRIHHAYLFSGTRGVGKTSIARLLAKGLNCETGITATPCGVCDNCREIEQGRFVDLIEIDAASRTKVEDTRDLLDNVQYAPARGRFKVYLIDEVHMLSRHSFNALLKTLEEPPEHVKFLLATTDPQKLPVTILSRCLQFHLKALDVEQIRHQLEHILNEEHIAHEPRALQLLARAAEGSLRDALSLTDQAIASGDGQVSTQAVSAMLGTLDDDQALSLVEAMVEANGERVMALINEAAARGIEWEALLVEMLGLLHRIAMVQLSPAALGNDMAAIELRMRELARTIPPTDIQLYYQTLLIGRKELPYAPDRRMGVEMTLLRALAFHPRMPLPEPEVPRQSFAPVAPTAVMTPTQVPPQPQSAPQQAPTVPLPETTSQVLAARQQLQRVQGATKAKKSEPAAATRARPVNNAALERLASVTDRVQARPVPSALEKAPAKKEAYRWKATTPVMQQKEVVATPKALKKALEHEKTPELAAKLAAEAIERDPWAAQVSQLSLPKLVEQVALNAWKEESDNAVCLHLRSSQRHLNNRGAQQKLAEALSMLKGSTVELTIVEDDNPAVRTPLEWRQAIYEEKLAQARESIIADNNIQTLRRFFDAELDEESIRPI",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1NJF_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MSYQVLARKWRPQTFADVVGQEHVLTALANGLSLGRIHHAYLFSGTRGVGKTSIARLLAKGLNCETGITATPCGVCDNCREIEQGRFVDLIEIDAASRTKVEDTRDLLDNVQYAPARGRFKVYLIDEVHMLSRHSFNALLKTLEEPPEHVKFLLATTDPQKLPVTILSRCLQFHLKALDVEQIRHQLEHILNEEHIAHEPRALQLLARAAEGSLRDALSLTDQAIASGDGQVSTQAVSAMLGTLDDDQALSLVEAMVEANGERVMALINEAAARGIEWEALLVEMLGLLHRIAMVQLSPAALGNDMAAIELRMRELARTIPPTDIQLYYQTLLIGRKELPYAPDRRMGVEMTLLRALAFHPRMPLPEPEVPRQSFAPVAPTAVMTPTQVPPQPQSAPQQAPTVPLPETTSQVLAARQQLQRVQGATKAKKSEPAAATRARPVNNAALERLASVTDRVQARPVPSALEKAPAKKEAYRWKATTPVMQQKEVVATPKALKKALEHEKTPELAAKLAAEAIERDPWAAQVSQLSLPKLVEQVALNAWKEESDNAVCLHLRSSQRHLNNRGAQQKLAEALSMLKGSTVELTIVEDDNPAVRTPLEWRQAIYEEKLAQARESIIADNNIQTLRRFFDAELDEESIRPI",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "ZN",
+                    "count": 4
+                }
+            }
+        ]
+    },
+    {
+        "name": "1SKT-10_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MASMTDQQAEARAFLSEEMIAEFKAAFDMFDADGGGDISTKELGTVMRMLGQNPTKEELDAIIEEVDEDGSGTIDFEEFLVMMVRQMKEDAKGKSEEELANCFRIFDKNADGFIDIEELGEILRATGEHVTEEDIEDLMKDSDKNNDGRIDFDEFLKMMEGVQ",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1TNQ-33_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MASMTDQQAEARAFLSEEMIAEFKAAFDMFDADGGGDISTKELGTVMRMLGQNPTKEELDAIIEEVDEDGSGTIDFEEFLVMMVRQMKEDAKGKSEEELANCFRIFDKNADGFIDIEELGEILRATGEHVTEEDIEDLMKDSDKNNDGRIDFDEFLKMMEGVQ",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 2
+                }
+            }
+        ]
+    },
+    {
+        "name": "1SYM-2_B",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MSELEKAMVALIDVFHQYSGREGDKHKLKKSELKELINNELSHFLEEIKEQEVVDKVMETLDEDGDGECDFQEFMAFVSMVTTACHEFFEHE",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1XYD-15_B",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MSELEKAMVALIDVFHQYSGREGDKHKLKKSELKELINNELSHFLEEIKEQEVVDKVMETLDEDGDGECDFQEFMAFVSMVTTACHEFFEHE",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 4
+                }
+            },
+            {
+                "ion": {
+                    "ion": "ZN",
+                    "count": 2
+                }
+            }
+        ]
+    },
+    {
+        "name": "1W4U-9_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MALKRIHKELNDLARDPPAQCSAGPVGDDMFHWQATIMGPNDSPYQGGVFFLTIHFPTDYPFKPPKVAFTTRIYHPNINSNGSICLDILRSQWSPALTISKVLLSICSLLCDPNPDDPLVPEIARIYKTDREKYNRIAREWTQKYAM",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1UR6-4_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MALKRIHKELNDLARDPPAQCSAGPVGDDMFHWQATIMGPNDSPYQGGVFFLTIHFPTDYPFKPPKVAFTTRIYHPNINSNGSICLDILRSQWSPALTISKVLLSICSLLCDPNPDDPLVPEIARIYKTDREKYNRIAREWTQKYAM",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "ZN",
+                    "count": 2
+                }
+            }
+        ]
+    },
+    {
+        "name": "1Y3Q_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MKKLVLAMAIGSSALMFAAPSVVAREATWVTEKPLTLKIHMHFRDKWVWDENWPVAREVARLTNVKLVGVANRAATNSQEQFNLMMASGQLPDIVGGDNLKDKFIRYGMEGAFIPLNKLIDQNAPNLKAFFKTHPEVQRAITAPDGNIYYLPYVPDGLVSRGYFIRQDWLDKLHLKTPQTVDELYTVLKAFKEKDPNGNGKADEIPFINRDPEEVFRLVNFWGARSTGSNTWMDFYVENGKIKHPFAEVAFKDGIKHVAQWYKEGLIDPEIFTRKARSREQTFGNNIGGMTHDWFASTALFNDALSKNIPGFKLVPMAPPINSKGQRWEEDARQIPRPDGWAITATNKNPVETIKLFDFYFGPKGRELSNFGVPGLTYDIKNGKPVYKDTVLKAAQPVNNQMYDIGAQIPIGFWQDYEYERQWTNDVALQGIDMYIKNKYVLPQFTGVNLTVEEREIYDKYWPDVKTYMFEMGQSWVMGTKDPEKTWNDYQQQLKNRGFYQVMIVMQKAYDRQYGGAAKPAQVGAK",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1Y3N_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MKKLVLAMAIGSSALMFAAPSVVAREATWVTEKPLTLKIHMHFRDKWVWDENWPVAREVARLTNVKLVGVANRAATNSQEQFNLMMASGQLPDIVGGDNLKDKFIRYGMEGAFIPLNKLIDQNAPNLKAFFKTHPEVQRAITAPDGNIYYLPYVPDGLVSRGYFIRQDWLDKLHLKTPQTVDELYTVLKAFKEKDPNGNGKADEIPFINRDPEEVFRLVNFWGARSTGSNTWMDFYVENGKIKHPFAEVAFKDGIKHVAQWYKEGLIDPEIFTRKARSREQTFGNNIGGMTHDWFASTALFNDALSKNIPGFKLVPMAPPINSKGQRWEEDARQIPRPDGWAITATNKNPVETIKLFDFYFGPKGRELSNFGVPGLTYDIKNGKPVYKDTVLKAAQPVNNQMYDIGAQIPIGFWQDYEYERQWTNDVALQGIDMYIKNKYVLPQFTGVNLTVEEREIYDKYWPDVKTYMFEMGQSWVMGTKDPEKTWNDYQQQLKNRGFYQVMIVMQKAYDRQYGGAAKPAQVGAK",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1YL5_B",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MRVGVLGAKGKVGATMVRAVAAADDLTLSAELDAGDPLSLLTDGNTEVVIDFTHPDVVMGNLEFLIDNGIHAVVGTTGFTAERFQQVESWLVAKPNTSVLIAPNFAIGAVLSMHFAKQAARFFDSAEVIELHHPHKADAPSGTAARTAKLIAEARKGLPPNPDATSTSLPGARGADVDGIPVHAVRLAGLVAHQEVLFGTEGETLTIRHDSLDRTSFVPGVLLAVRRIAERPGLTVGLEPLLDLH",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1YL7_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MRVGVLGAKGKVGATMVRAVAAADDLTLSAELDAGDPLSLLTDGNTEVVIDFTHPDVVMGNLEFLIDNGIHAVVGTTGFTAERFQQVESWLVAKPNTSVLIAPNFAIGAVLSMHFAKQAARFFDSAEVIELHHPHKADAPSGTAARTAKLIAEARKGLPPNPDATSTSLPGARGADVDGIPVHAVRLAGLVAHQEVLFGTEGETLTIRHDSLDRTSFVPGVLLAVRRIAERPGLTVGLEPLLDLH",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "MG",
+                    "count": 6
+                }
+            }
+        ]
+    },
+    {
+        "name": "1ZA1_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MANPLYQKHIISINDLSRDDLNLVLATAAKLKANPQPELLKHKVIASCFFEASTRTRLSFETSMHRLGASVVGFSDSANTSLGKKGETLADTISVISTYVDAIVMRHPQEGAARLATEFSGNVPVLNAGDGSNQHPTQTLLDLFTIQETQGRLDNLHVAMVGDLKYGRTVHSLTQALAKFDGNRFYFIAPDALAMPQYILDMLDEKGIAWSLHSSIEEVMAEVDILYMTRVQKERLDPSEYANVKAQFVLRASDLHNAKANMKVLHPLPRVDEIATDVDKTPHAWYFQQAGNGIFARQALLALVLNRDLVL",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1Q95_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MANPLYQKHIISINDLSRDDLNLVLATAAKLKANPQPELLKHKVIASCFFEASTRTRLSFETSMHRLGASVVGFSDSANTSLGKKGETLADTISVISTYVDAIVMRHPQEGAARLATEFSGNVPVLNAGDGSNQHPTQTLLDLFTIQETQGRLDNLHVAMVGDLKYGRTVHSLTQALAKFDGNRFYFIAPDALAMPQYILDMLDEKGIAWSLHSSIEEVMAEVDILYMTRVQKERLDPSEYANVKAQFVLRASDLHNAKANMKVLHPLPRVDEIATDVDKTPHAWYFQQAGNGIFARQALLALVLNRDLVL",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "ZN",
+                    "count": 6
+                }
+            }
+        ]
+    },
+    {
+        "name": "2F63-4_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MTVAYIAIGSNLASPLEQVNAALKALGDIPESHILTVSSFYRTPPLGPQDQPDYLNAAVALETSLAPEELLNHTQRIELQQGRVRKAERWGPRTLDLDIMLFGNEVINTERLTVPHYDMKNRGFMLWPLFEIAPELVFPDGEMLRQILHTRAFDKLNKW",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1EQM_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MTVAYIAIGSNLASPLEQVNAALKALGDIPESHILTVSSFYRTPPLGPQDQPDYLNAAVALETSLAPEELLNHTQRIELQQGRVRKAERWGPRTLDLDIMLFGNEVINTERLTVPHYDMKNRGFMLWPLFEIAPELVFPDGEMLRQILHTRAFDKLNKW",
+                    "count": 1
+                }
+            },
+            {
+                "ligand": {
+                    "ligand": "CCD_ADP",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "MG",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "2JWW-13_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MSMTDLLSAEDIKKAIGAFTAADSFDHKKFFQMVGLKKKSADDVKKVFHILDKDKSGFIEEDELGSILKGFSSDARDLSAKETKTLMAAGDKDGDGKIGVEEFSTLVAES",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1RTP_1",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MSMTDLLSAEDIKKAIGAFTAADSFDHKKFFQMVGLKKKSADDVKKVFHILDKDKSGFIEEDELGSILKGFSSDARDLSAKETKTLMAAGDKDGDGKIGVEEFSTLVAES",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 6
+                }
+            }
+        ]
+    },
+    {
+        "name": "2KAX-5_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "METPLEKALTTMVTTFHKYSGREGSKLTLSRKELKELIKKELCLGEMKESSIDDLMKSLDKNSDQEIDFKEYSVFLTMLCMAYNDFFLEDNK",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "2KAY-16_B",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "METPLEKALTTMVTTFHKYSGREGSKLTLSRKELKELIKKELCLGEMKESSIDDLMKSLDKNSDQEIDFKEYSVFLTMLCMAYNDFFLEDNK",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 4
+                }
+            }
+        ]
+    },
+    {
+        "name": "2L50-24_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MSDCYTELEKAVIVLVENFYKYVSKYSLVKNKISKSSFREMLQKELNHMLSDTGNRKAADKLIQNLDANHDGRISFDEYWTLIGGITGPIAKLIHEQEQQSSS",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "2L51-15_B",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MSDCYTELEKAVIVLVENFYKYVSKYSLVKNKISKSSFREMLQKELNHMLSDTGNRKAADKLIQNLDANHDGRISFDEYWTLIGGITGPIAKLIHEQEQQSSS",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 4
+                }
+            }
+        ]
+    },
+    {
+        "name": "2LHS-6_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MNKTSRTLLSLGLLSAAMFGVSQQANAHGYVESPASRAYQCKLQLNTQCGSVQYEPQSVEGLKGFPQAGPADGHIASADKSTFFELDQQTPTRWNKLNLKTGPNSFTWKLTARHSTTSWRYFITKPNWDASQPLTRASFDLTPFCQFNDGGAIPAAQVTHQCNIPADRSGSHVILAVWDIADTANAFYQAIDVNLSK",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "2BEM_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MNKTSRTLLSLGLLSAAMFGVSQQANAHGYVESPASRAYQCKLQLNTQCGSVQYEPQSVEGLKGFPQAGPADGHIASADKSTFFELDQQTPTRWNKLNLKTGPNSFTWKLTARHSTTSWRYFITKPNWDASQPLTRASFDLTPFCQFNDGGAIPAAQVTHQCNIPADRSGSHVILAVWDIADTANAFYQAIDVNLSK",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "NA",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "2NLN-4_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MSITDILSAEDIAAALQECQDPDTFEPQKFFQTSGLSKMSASQVKDIFRFIDNDQSGYLDGDELKYFLQKFQSDARELTESETKSLMDAADNDGDGKIGADEFQEMVHS",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "1RRO_A",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MSITDILSAEDIAAALQECQDPDTFEPQKFFQTSGLSKMSASQVKDIFRFIDNDQSGYLDGDELKYFLQKFQSDARELTESETKSLMDAADNDGDGKIGADEFQEMVHS",
+                    "count": 1
+                }
+            },
+            {
+                "ion": {
+                    "ion": "CA",
+                    "count": 4
+                }
+            }
+        ]
+    }
+]
