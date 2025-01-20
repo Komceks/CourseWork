@@ -5,7 +5,7 @@ This repository contains code and scripts to perform root-mean-square deviation 
 
 ## Features
 
-- **Data Preparation**: Clean and preprocess RMSD datasets.
+- **Data Preparation**: Preprocess RMSD datasets.
 - **Statistical Tests**: Perform Wilcoxon signed-rank tests to determine significant differences between APO and HOLO states.
 - **Visualization**:
   - Density plots of RMSD values.
